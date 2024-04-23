@@ -104,7 +104,7 @@ IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
     "gobi_classifier.pkl": {
-        "url": "https://drive.google.com/file/d/1n6K1EPuyE-H4mxZ7TLuITEqHLZZi-j09/view?usp=drive_link",
+        "url": "https://www.dropbox.com/scl/fi/x5kaxe72uspylxbk1p994/gobi_classifier.pkl?rlkey=huoj1vme73csqnuve825eptcp&st=o7swu6m1&dl=1",
         "size": 46977024
     }
 }
